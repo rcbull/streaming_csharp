@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  audiodecoding.cpp
+  dllmain.cpp
+  videodecoding.cpp
+  Gerando Código...
+     Criando biblioteca C:\fontes\github\RtspClientSharp\Examples\libffmpeghelper\x64\Debug\libffmpeghelper.lib e objeto C:\fontes\github\RtspClientSharp\Examples\libffmpeghelper\x64\Debug\libffmpeghelper.exp
+  libffmpeghelper.vcxproj -> C:\fontes\github\RtspClientSharp\Examples\libffmpeghelper\x64\Debug\libffmpeghelper.dll

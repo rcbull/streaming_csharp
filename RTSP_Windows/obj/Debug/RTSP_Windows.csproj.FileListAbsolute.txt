@@ -1,0 +1,5 @@
+C:\Users\rcbul\source\repos\RTSP_Windows\RTSP_Windows\obj\Debug\RTSP_Windows.csprojAssemblyReference.cache
+C:\Users\rcbul\source\repos\RTSP_Windows\RTSP_Windows\obj\Debug\RTSP_Windows.Properties.Resources.resources
+C:\Users\rcbul\source\repos\RTSP_Windows\RTSP_Windows\obj\Debug\RTSP_Windows.csproj.GenerateResource.cache
+C:\Users\rcbul\source\repos\RTSP_Windows\RTSP_Windows\obj\Debug\RTSP_Windows.csproj.CoreCompileInputs.cache
+C:\Users\rcbul\source\repos\RTSP_Windows\RTSP_Windows\obj\Debug\RTSP_Windows.Form1.resources
